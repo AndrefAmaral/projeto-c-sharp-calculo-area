@@ -1,0 +1,13 @@
+C:\dev\Calculo_Area\bin\Debug\netcoreapp3.1\Calculo_Area.exe
+C:\dev\Calculo_Area\bin\Debug\netcoreapp3.1\Calculo_Area.deps.json
+C:\dev\Calculo_Area\bin\Debug\netcoreapp3.1\Calculo_Area.runtimeconfig.json
+C:\dev\Calculo_Area\bin\Debug\netcoreapp3.1\Calculo_Area.runtimeconfig.dev.json
+C:\dev\Calculo_Area\bin\Debug\netcoreapp3.1\Calculo_Area.dll
+C:\dev\Calculo_Area\bin\Debug\netcoreapp3.1\Calculo_Area.pdb
+C:\dev\Calculo_Area\obj\Debug\netcoreapp3.1\Calculo_Area.csprojAssemblyReference.cache
+C:\dev\Calculo_Area\obj\Debug\netcoreapp3.1\Calculo_Area.AssemblyInfoInputs.cache
+C:\dev\Calculo_Area\obj\Debug\netcoreapp3.1\Calculo_Area.AssemblyInfo.cs
+C:\dev\Calculo_Area\obj\Debug\netcoreapp3.1\Calculo_Area.csproj.CoreCompileInputs.cache
+C:\dev\Calculo_Area\obj\Debug\netcoreapp3.1\Calculo_Area.dll
+C:\dev\Calculo_Area\obj\Debug\netcoreapp3.1\Calculo_Area.pdb
+C:\dev\Calculo_Area\obj\Debug\netcoreapp3.1\Calculo_Area.genruntimeconfig.cache
